@@ -1,12 +1,19 @@
+body {
+  background-color: #3B4252;
+  text-align: center;
+}
+
 h1 {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     text-align: center;
     border: 2cm;
+    color: #fff;
 }
 h2 {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     text-align: center;
     font-size: medium;
+    color: #fff;
 }
 ul {
     list-style-type: none;
@@ -31,4 +38,8 @@ ul {
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 12;
+ }
+ code {
+  font-family: "FiraCode Nerd Font", monospace;
+  background-color: #5E81AC;
  }
