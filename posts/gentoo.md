@@ -1,4 +1,4 @@
 # Ako nainštalovať Gentoo **správne**
 Asi (možno) viete, čo to je Gentoo. A ak nie, tak vám to poviem. Je to linuxová distribúcia, ktorá je známa svojou prispôsobiteľnosťou, kde si môžete systém vyladiť do posledného detailu. Niektorí ľudia na internete hovoria, že nainštalovať Gentoo je ťažké, ale ono to v skutočnosti nie je ťažké. No tak sa na to poďme pozrieť
 # Výber inštalačného média
-Keďže Gentoo je tzv. **meta-distribúcia**, tak to znamená, že 
+Keďže Gentoo je tzv. **meta-distribúcia**, tak to znamená, že tá distribúcia sa neinštaluje pekným grafickým inštalátorom, ale pekne krásne cez príkazový riadok. A dokonca Gentoo nemá ani vlastné ISO, ktorého prostredie nevyzerá ako Windows XP. Ale ja mám na toto riešenie. Volá sa [SystemRescueCD](https://www.system-rescue.org/), pričom toto prostredie je veľmi jednoduché na používanie a aj celkom “lajtové” na systémové prostriedky. Dá sa vypáliť na USB pomocou [Rúfusu](https://rufus.ie), [Etcheru](https://balena.io-etcher) alebo aj pomocou [`dd`](https://wiki.installgentoo.com/wiki/GNU/Linux#Making_a_bootable_USB_installer).
