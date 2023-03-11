@@ -9,7 +9,6 @@ body {
 h1 {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     text-align: left;
-    border: 2cm;
     display: block;
     font-size: 2em;
     margin-top: 0.67em;
@@ -62,4 +61,9 @@ img {
   float: right;
   margin-left: 10px;
   margin-right: 20px; 
+}
+ul {
+  border: medium solid #ddd;
+  list-style-type: circle;
+  color: #ddd;
 }
